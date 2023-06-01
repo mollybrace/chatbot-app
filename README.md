@@ -1,3 +1,5 @@
-Backend 
-npm i express cors nodemon
+.env file needed
+
+Run server: npm run dev
+Run Frontend: npm start
 
